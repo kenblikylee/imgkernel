@@ -1,4 +1,8 @@
 # imgkernel
+
+[![license](https://img.shields.io/github/license/kenblikylee/imgkernel)](https://github.com/kenblikylee/imgkernel/blob/master/LICENSE)
+[![Documentation Status](https://readthedocs.org/projects/imgkernel/badge/?version=latest)](https://imgkernel.readthedocs.io/zh/latest/?badge=latest)
+
 An image kernel is a small matrix used to apply effects like the ones you might find in Photoshop or Gimp, such as blurring, sharpening, outlining or embossing. They're also used in machine learning for 'feature extraction', a technique for determining the most important portions of an image. 
 
 ## 安装
